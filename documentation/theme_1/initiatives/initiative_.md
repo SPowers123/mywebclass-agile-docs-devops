@@ -1,7 +1,7 @@
 # Initiative: Measure and Improve: Track and analyze pull request metrics such as time to merge, number of iterations, and feedback quality.
 
 ## Related Epics
-* [Epic 2](../../templates/theme/initiatives/epics/epic_template2.md)
+* [Epic 2](epics/epic_template2.md)
 
 ## Description:
 The Measure and Improve initiative aims to track and analyze pull request metrics such as time to merge, number of iterations, and feedback quality, to identify areas for improvement and optimize the pull request process. The initiative will involve implementing a metrics tracking system and regularly reviewing the data to identify trends and areas for improvement.
