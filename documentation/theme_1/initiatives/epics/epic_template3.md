@@ -42,3 +42,6 @@ These improvements will ultimately lead to increased traffic and revenue for the
 ## Priority:
 
 High priority, as a consistent design and user experience are essential for a successful website.
+
+## Related Stories
+1. [story 3](stories/story3.md)
