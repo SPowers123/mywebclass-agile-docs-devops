@@ -10,7 +10,7 @@ Create a dashboard that tracks and analyzes pull request metrics, such as time t
 
 ## Effort Estimate
 
-12 hours
+5 hours
 
 ## Assigned To
 
