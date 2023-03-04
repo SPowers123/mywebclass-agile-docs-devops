@@ -1,8 +1,8 @@
 # Task: 
-<!-- Remove Story Links and replace with the actual user story-->
+
 ## User Story
 
-[story 3](../story3.md)
+As a marketing team member, I want to update the homepage banner image on our company website to reflect our latest product launch, so that our visitors can be informed of our newest offering and potentially convert into customers.
 
 ## Description
 
