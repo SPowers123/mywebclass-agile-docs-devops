@@ -6,7 +6,7 @@
 
 ## Description
 
-test
+Create a dashboard that tracks and analyzes pull request metrics, such as time to merge, number of iterations, and feedback quality. The dashboard should be easily accessible by all team members and should provide an overview of the team's performance in these areas.
 
 ## Effort Estimate
 
