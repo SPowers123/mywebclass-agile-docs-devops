@@ -8,7 +8,7 @@ us up for long-term success.
 
 * [Conduct Code Reviews that's structured around positive reinforcement.](initiatives/initiative_review.md)
 * [Measure and Improve: Track and analyze pull request metrics such as time to merge, number of iterations, and feedback quality.](initiatives/initiative_improvement.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Create an initial web page template that includes whats needed](initiatives/initiative_webpage_template.md)
 
 
 ## Test plan
