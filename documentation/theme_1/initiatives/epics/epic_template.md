@@ -1,7 +1,7 @@
 # Epic: Conduct Code Reviews with Positive Reinforcement
 
 ## Related story
-1. [story 1](stories/story.md)
+1. [story 1](stories/story1.md)
 
 ## Description:
 The Conduct Code Reviews with Positive Reinforcement epic is aimed at ensuring high-quality code in the software development process. This epic will focus on implementing a code review process that promotes positive reinforcement through constructive feedback and rewards.
