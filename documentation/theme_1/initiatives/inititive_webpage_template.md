@@ -1,7 +1,8 @@
 # Initiative: Create an Initial Web Page Template
 
 ## Related Epics
-[Epic 3](../../templates/theme/initiatives/epics/epic_template3.md)
+
+* [Epic 3](../../templates/theme/initiatives/epics/epic_template3.md
 
 ## Description:
 The Create an Initial Web Page Template initiative aims to create a reusable template for the design and development of web pages that includes the necessary components and features for a high-quality user experience. The initiative will involve research and analysis of best practices, as well as collaboration with stakeholders to determine requirements and design specifications.
