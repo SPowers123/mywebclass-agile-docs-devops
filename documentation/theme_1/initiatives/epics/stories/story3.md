@@ -1,3 +1,4 @@
+<!-- Remove the "Story 3 Title to fit the format"-->
 # Story 3
 
 ## User Story
