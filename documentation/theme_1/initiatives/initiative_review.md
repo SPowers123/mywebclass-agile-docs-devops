@@ -1,7 +1,7 @@
 # Initiative: Conduct Code Reviews that's structured around positive reinforcement.
 
 ## Related Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
+* [Epic 1](epics/epic_template.md)
 ## Test plan
 The testing strategy will follow the principles of Agile testing and focus on continuous testing and feedback. Testing will be performed at different stages of the initiative, including:
 
