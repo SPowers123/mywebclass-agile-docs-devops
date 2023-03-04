@@ -1,8 +1,8 @@
 # Task: 
-<!-- Remove Story Links and replace with the actual user story-->
+
 ## User Story
 
-[story 2](../story2.md)
+As a team lead, I want to be able to track and analyze pull request metrics, so that I can identify areas for improvement and ensure efficient and effective code review processes.
 
 ## Description
 
