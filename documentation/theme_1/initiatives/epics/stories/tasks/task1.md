@@ -2,7 +2,7 @@
 
 ## User Story
 
-[Reponsive Webpages](../story1.md)
+[story 1](../story1.md)
 
 ## Description
 
