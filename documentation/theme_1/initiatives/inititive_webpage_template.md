@@ -26,7 +26,7 @@ Increased efficiency and effectiveness in web page development
 Consistent and high-quality user experience across all web pages
 Improved usability and accessibility of the website
 
-##Deliverables:
+## Deliverables:
 The following deliverables will be produced as part of the initiative:
 
 Requirements and design specifications for the web page template
