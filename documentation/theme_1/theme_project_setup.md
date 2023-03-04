@@ -6,8 +6,8 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
+* [Conduct Code Reviews that's structured around positive reinforcement.](initiatives/initiative_review.md)
+* [Measure and Improve: Track and analyze pull request metrics such as time to merge, number of iterations, and feedback quality.](initiatives/initiative_improvement.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
 * Monitoring to continuously improve the quality of our project
@@ -16,3 +16,8 @@ us up for long-term success.
 
 ## Test plan
 How will this be tested?
+
+* Seige will be used to monitor the stress of our website
+* Use Google PageSpeed insights for website performance analysis
+* Use selenium for automated website testing
+* pytest to check the functionality of our flask applications 
