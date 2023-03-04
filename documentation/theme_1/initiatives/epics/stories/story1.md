@@ -15,4 +15,4 @@ The code review process is documented and followed consistently across the team.
 The developer incorporates the feedback into their code and demonstrates an improvement in their coding skills over time
 
 ## tasks related to this story
-* [task 1](../../templates/theme_1/initiatives/epics/stories/tasks/task1.md)
+* [task 1](mywebclass-agile-docs-devops/documentation/theme_1/initiatives/epics/stories/tasks/task1.md)
