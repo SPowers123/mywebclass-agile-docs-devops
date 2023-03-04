@@ -10,9 +10,6 @@ us up for long-term success.
 * [Measure and Improve: Track and analyze pull request metrics such as time to merge, number of iterations, and feedback quality.](initiatives/initiative_improvement.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
 ## Test plan
 How will this be tested?
