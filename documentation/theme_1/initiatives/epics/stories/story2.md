@@ -16,4 +16,4 @@ The team lead should communicate regularly with team members about the status of
 
 ## related tasks
 
- [task 2](../../templates/theme/initiatives/epics/stories/task/task2.md)
+ [task 2](tasks/task2.md)
