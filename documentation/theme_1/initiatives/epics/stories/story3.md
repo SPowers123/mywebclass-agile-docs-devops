@@ -1,6 +1,9 @@
+# Story 3
+
+## User Story
 As a marketing team member, I want to update the homepage banner image on our company website to reflect our latest product launch, so that our visitors can be informed of our newest offering and potentially convert into customers.
 
-Acceptance Criteria:
+## Acceptance Criteria:
 
 The new banner image should have a clear call-to-action related to the product launch
 The new banner image should be visually appealing and relevant to the product
