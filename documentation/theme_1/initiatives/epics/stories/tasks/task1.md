@@ -1,8 +1,8 @@
 # Task: 
-<!-- Remove Story Links and replace with the actual user story-->
+
 ## User Story
 
-[story 1](../story1.md)
+As a developer, I want to receive constructive feedback on my code to improve my skills and contribute to the team's knowledge base.
 
 ## Description
 
