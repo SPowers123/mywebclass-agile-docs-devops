@@ -1,5 +1,4 @@
-<!-- Remove the "Story 3 Title to fit the format"-->
-# Story 3
+
 
 ## User Story
 As a marketing team member, I want to update the homepage banner image on our company website to reflect our latest product launch, so that our visitors can be informed of our newest offering and potentially convert into customers.
